@@ -7,6 +7,7 @@ brew "mas"
 # iOS
 mas "Xcode", id: 497799835
 mas "Realm Browser", id: 1007457278
+brew "carthage"
 
 # Dev Tools
 brew "mysql@5.6"
