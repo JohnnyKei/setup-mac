@@ -23,7 +23,7 @@
 * phantomjs
 * awscli
 * yarn
-* docker-compose"
+* docker-compose
 
 ### brew cask
 * docker
