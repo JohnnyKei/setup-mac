@@ -2,6 +2,7 @@ cask_args appdir: "/Applications"
 
 # Install Applications tool
 tap "homebrew/cask"
+brew "mas"
 
 # iOS
 mas "Xcode", id: 497799835
