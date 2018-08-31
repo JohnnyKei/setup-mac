@@ -1,6 +1,9 @@
 # Common
 xcode-select --install
-ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+
+## Setup Download from AppStore Tool
+brew install mas
+mas signin YOUR_EMAIL "YOUR_PASSWORD"
 
 ## Install Tools from Brewfile
 brew bundle
